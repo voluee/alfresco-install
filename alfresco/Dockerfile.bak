@@ -1,0 +1,28 @@
+ARG ALFRESCO_TAG
+FROM alfresco/alfresco-content-repository-community:${ALFRESCO_TAG}
+
+ARG TOMCAT_DIR=/usr/local/tomcat
+ARG OL_AF_VER=v4.1.1
+
+USER root
+
+RUN mkdir -p $TOMCAT_DIR/amps \
+&& wget https://github.com/ONLYOFFICE/onlyoffice-alfresco/releases/download/$OL_AF_VER/onlyoffice-integration-repo.amp \
+&& mv onlyoffice-integration-repo.amp  $TOMCAT_DIR/amps \
+&& wget https://github.com/ONLYOFFICE/onlyoffice-alfresco/releases/download/$OL_AF_VER/onlyoffice-integration-share.amp \
+&& mv onlyoffice-integration-share.amp $TOMCAT_DIR/amps \
+
+&& wget https://github.com/ONLYOFFICE/onlyoffice-alfresco/releases/download/$OL_AF_VER/onlyoffice-integration-repo.jar \
+&& mv onlyoffice-integration-repo.jar /usr/local/tomcat/webapps/alfresco/WEB-INF/lib \
+&& wget https://github.com/ONLYOFFICE/onlyoffice-alfresco/releases/download/$OL_AF_VER/onlyoffice-integration-share.jar \
+&& mv onlyoffice-integration-share.jar /usr/local/tomcat/webapps/onlyoffice-integration-share.jar
+
+
+# Install modules and addons
+
+COPY modules/amps $TOMCAT_DIR/amps
+
+RUN java -jar $TOMCAT_DIR/alfresco-mmt/alfresco-mmt*.jar install \
+    $TOMCAT_DIR/amps $TOMCAT_DIR/webapps/alfresco -directory -nobackup -force
+
+

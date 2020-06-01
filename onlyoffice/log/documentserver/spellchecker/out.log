@@ -1,0 +1,64 @@
+[2020-05-27T06:51:50.583] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-27T06:51:50.600] [WARN] nodeJS - worker 798 started.
+[2020-05-27T06:51:51.573] [WARN] nodeJS - Express server starting...
+[2020-05-27T06:51:51.912] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-27T07:00:32.507] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-27T07:00:32.539] [WARN] nodeJS - worker 816 started.
+[2020-05-27T07:00:34.131] [WARN] nodeJS - Express server starting...
+[2020-05-27T07:00:34.480] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-27T08:04:23.888] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-27T08:04:23.906] [WARN] nodeJS - worker 818 started.
+[2020-05-27T08:04:24.964] [WARN] nodeJS - Express server starting...
+[2020-05-27T08:04:25.151] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-28T16:29:00.122] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-28T16:29:00.133] [WARN] nodeJS - worker 825 started.
+[2020-05-28T16:29:00.617] [WARN] nodeJS - Express server starting...
+[2020-05-28T16:29:00.674] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-28T16:42:31.072] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-28T16:42:31.110] [WARN] nodeJS - worker 834 started.
+[2020-05-28T16:42:31.942] [WARN] nodeJS - Express server starting...
+[2020-05-28T16:42:32.206] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-28T16:43:45.519] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-28T16:43:45.558] [WARN] nodeJS - worker 830 started.
+[2020-05-28T16:43:46.646] [WARN] nodeJS - Express server starting...
+[2020-05-28T16:43:46.793] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-29T00:58:42.565] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-29T00:58:42.578] [WARN] nodeJS - worker 829 started.
+[2020-05-29T00:58:44.138] [WARN] nodeJS - Express server starting...
+[2020-05-29T00:58:44.276] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-29T01:13:42.436] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-29T01:13:42.446] [WARN] nodeJS - worker 827 started.
+[2020-05-29T01:13:43.870] [WARN] nodeJS - Express server starting...
+[2020-05-29T01:13:44.094] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-29T01:19:30.191] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-29T01:19:30.215] [WARN] nodeJS - worker 858 started.
+[2020-05-29T01:19:31.831] [WARN] nodeJS - Express server starting...
+[2020-05-29T01:19:32.006] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-29T01:24:17.168] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-29T01:24:17.201] [WARN] nodeJS - worker 848 started.
+[2020-05-29T01:24:18.901] [WARN] nodeJS - Express server starting...
+[2020-05-29T01:24:19.037] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-29T02:06:11.309] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-29T02:06:11.396] [WARN] nodeJS - worker 828 started.
+[2020-05-29T02:06:13.287] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:06:13.631] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-29T02:15:22.339] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-29T02:15:22.458] [WARN] nodeJS - worker 847 started.
+[2020-05-29T02:15:24.191] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:15:24.263] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-29T02:20:25.868] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-29T02:20:25.905] [WARN] nodeJS - worker 849 started.
+[2020-05-29T02:20:27.916] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:20:28.150] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-05-29T02:26:46.108] [WARN] nodeJS - start cluster with 1 workers
+[2020-05-29T02:26:46.203] [WARN] nodeJS - worker 818 started.
+[2020-05-29T02:26:48.789] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:26:48.911] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-06-01T06:06:29.001] [WARN] nodeJS - start cluster with 1 workers
+[2020-06-01T06:06:29.075] [WARN] nodeJS - worker 822 started.
+[2020-06-01T06:06:29.994] [WARN] nodeJS - Express server starting...
+[2020-06-01T06:06:30.078] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode
+[2020-06-01T06:08:34.508] [WARN] nodeJS - start cluster with 1 workers
+[2020-06-01T06:08:34.633] [WARN] nodeJS - worker 833 started.
+[2020-06-01T06:08:37.466] [WARN] nodeJS - Express server starting...
+[2020-06-01T06:08:37.699] [WARN] nodeJS - Express server listening on port 8080 in production-linux mode

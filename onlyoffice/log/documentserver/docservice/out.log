@@ -1,0 +1,232 @@
+[2020-05-27T06:51:51.927] [WARN] nodeJS - Express server starting...
+[2020-05-27T06:51:51.931] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-27T06:51:52.302] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-27T06:52:16.445] [WARN] nodeJS - Express server starting...
+[2020-05-27T06:52:16.449] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-27T06:52:16.615] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-27T06:53:59.229] [ERROR] nodeJS - postData error: docId = 7f364ca3-782b-46ff-afa2-d9463fe10923_1.0;url = http://localhost/alfresco/s/parashift/onlyoffice/callback?nodeRef=workspace://SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923&cb_key=nguOyE4Ca5YBbFr9Q5yARnAjpp1Mum3FdMQ9Hxj31eM;data = {"key":"7f364ca3-782b-46ff-afa2-d9463fe10923_1.0","status":1,"users":["admin"],"actions":[{"type":1,"userid":"admin"}]}
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /alfresco/s/parashift/onlyoffice/callback</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:55:23.731] [ERROR] nodeJS - postData error: docId = 7f364ca3-782b-46ff-afa2-d9463fe10923_1.0;url = http://localhost/alfresco/s/parashift/onlyoffice/callback?nodeRef=workspace://SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923&cb_key=nguOyE4Ca5YBbFr9Q5yARnAjpp1Mum3FdMQ9Hxj31eM;data = {"key":"7f364ca3-782b-46ff-afa2-d9463fe10923_1.0","status":1,"users":["admin"],"actions":[{"type":1,"userid":"admin"}]}
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /alfresco/s/parashift/onlyoffice/callback</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:55:52.752] [ERROR] nodeJS - postData error: docId = 7f364ca3-782b-46ff-afa2-d9463fe10923_1.0;url = http://localhost/alfresco/s/parashift/onlyoffice/callback?nodeRef=workspace://SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923&cb_key=nguOyE4Ca5YBbFr9Q5yARnAjpp1Mum3FdMQ9Hxj31eM;data = {"key":"7f364ca3-782b-46ff-afa2-d9463fe10923_1.0","status":1,"users":["admin"],"actions":[{"type":1,"userid":"admin"}]}
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /alfresco/s/parashift/onlyoffice/callback</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:56:19.470] [ERROR] nodeJS - postData error: docId = 7f364ca3-782b-46ff-afa2-d9463fe10923_1.0;url = http://localhost/alfresco/s/parashift/onlyoffice/callback?nodeRef=workspace://SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923&cb_key=nguOyE4Ca5YBbFr9Q5yARnAjpp1Mum3FdMQ9Hxj31eM;data = {"key":"7f364ca3-782b-46ff-afa2-d9463fe10923_1.0","status":1,"users":["admin"],"actions":[{"type":1,"userid":"admin"}]}
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /alfresco/s/parashift/onlyoffice/callback</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:56:37.226] [ERROR] nodeJS - postData error: docId = 7f364ca3-782b-46ff-afa2-d9463fe10923_1.0;url = http://localhost/alfresco/s/parashift/onlyoffice/callback?nodeRef=workspace://SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923&cb_key=nguOyE4Ca5YBbFr9Q5yARnAjpp1Mum3FdMQ9Hxj31eM;data = {"key":"7f364ca3-782b-46ff-afa2-d9463fe10923_1.0","status":1,"users":["admin"],"actions":[{"type":1,"userid":"admin"}]}
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /alfresco/s/parashift/onlyoffice/callback</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T07:00:35.113] [WARN] nodeJS - Express server starting...
+[2020-05-27T07:00:35.116] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-27T07:00:35.389] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-27T07:00:45.699] [WARN] nodeJS - error description: docId = 7f364ca3-782b-46ff-afa2-d9463fe10923_1.0 errorId = Other error
+[2020-05-27T07:00:55.511] [WARN] nodeJS - Express server starting...
+[2020-05-27T07:00:55.515] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-27T07:00:55.654] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-27T08:04:25.215] [WARN] nodeJS - Express server starting...
+[2020-05-27T08:04:25.219] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-27T08:04:25.629] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-27T08:04:44.262] [WARN] nodeJS - Express server starting...
+[2020-05-27T08:04:44.265] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-27T08:04:44.390] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-27T08:20:49.577] [ERROR] nodeJS - postData error: docId = 7f364ca3-782b-46ff-afa2-d9463fe10923_1.0;url = http://localhost/alfresco/s/parashift/onlyoffice/callback?nodeRef=workspace://SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923&cb_key=nguOyE4Ca5YBbFr9Q5yARnAjpp1Mum3FdMQ9Hxj31eM;data = {"key":"7f364ca3-782b-46ff-afa2-d9463fe10923_1.0","status":1,"users":["admin"],"actions":[{"type":1,"userid":"admin"}]}
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /alfresco/s/parashift/onlyoffice/callback</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-28T16:29:00.633] [WARN] nodeJS - Express server starting...
+[2020-05-28T16:29:00.638] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-28T16:29:00.776] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-28T16:29:21.019] [WARN] nodeJS - Express server starting...
+[2020-05-28T16:29:21.021] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-28T16:29:21.124] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-28T16:42:32.800] [WARN] nodeJS - Express server starting...
+[2020-05-28T16:42:32.805] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-28T16:42:33.302] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-28T16:43:46.464] [WARN] nodeJS - Express server starting...
+[2020-05-28T16:43:46.467] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-28T16:43:46.883] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-28T16:44:04.008] [WARN] nodeJS - Express server starting...
+[2020-05-28T16:44:04.010] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-28T16:44:04.113] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T00:58:44.151] [WARN] nodeJS - Express server starting...
+[2020-05-29T00:58:44.154] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T00:58:44.507] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T00:59:02.360] [WARN] nodeJS - Express server starting...
+[2020-05-29T00:59:02.362] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T00:59:02.465] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T01:13:44.218] [WARN] nodeJS - Express server starting...
+[2020-05-29T01:13:44.242] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T01:13:44.681] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T01:14:08.670] [WARN] nodeJS - Express server starting...
+[2020-05-29T01:14:08.673] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T01:14:08.807] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T01:19:31.972] [WARN] nodeJS - Express server starting...
+[2020-05-29T01:19:31.976] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T01:19:32.291] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T01:19:50.575] [WARN] nodeJS - Express server starting...
+[2020-05-29T01:19:50.577] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T01:19:50.728] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T01:24:19.085] [WARN] nodeJS - Express server starting...
+[2020-05-29T01:24:19.088] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T01:24:19.412] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T01:24:40.199] [WARN] nodeJS - Express server starting...
+[2020-05-29T01:24:40.203] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T01:24:40.358] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T02:06:11.947] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:06:11.996] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T02:06:12.943] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T02:06:38.163] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:06:38.166] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T02:06:38.312] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T02:15:24.707] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:15:24.730] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T02:15:24.955] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T02:15:44.869] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:15:44.873] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T02:15:45.016] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T02:20:28.127] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:20:28.147] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T02:20:28.334] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T02:20:48.861] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:20:48.865] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T02:20:48.983] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T02:26:50.140] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:26:50.170] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T02:26:50.724] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-05-29T02:27:15.263] [WARN] nodeJS - Express server starting...
+[2020-05-29T02:27:15.267] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-05-29T02:27:15.404] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-06-01T06:06:29.639] [WARN] nodeJS - Express server starting...
+[2020-06-01T06:06:29.642] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-06-01T06:06:30.071] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-06-01T06:06:51.433] [WARN] nodeJS - Express server starting...
+[2020-06-01T06:06:51.436] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-06-01T06:06:51.537] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-06-01T06:08:37.625] [WARN] nodeJS - Express server starting...
+[2020-06-01T06:08:37.658] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-06-01T06:08:38.046] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode
+[2020-06-01T06:09:02.162] [WARN] nodeJS - Express server starting...
+[2020-06-01T06:09:02.166] [WARN] nodeJS - Plugins watch exception (https://nodejs.org/docs/latest/api/fs.html#fs_availability).
+[2020-06-01T06:09:02.374] [WARN] nodeJS - Express server listening on port 8000 in production-linux mode

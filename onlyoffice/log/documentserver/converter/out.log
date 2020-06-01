@@ -1,0 +1,1266 @@
+[2020-05-27T06:51:51.622] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T06:51:51.651] [WARN] nodeJS - worker 816 started.
+[2020-05-27T06:51:51.657] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T06:52:18.130] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T06:52:18.145] [WARN] nodeJS - worker 878 started.
+[2020-05-27T06:52:18.148] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T06:53:59.250] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=1;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:54:00.258] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=2;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:54:01.262] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=3;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:54:33.293] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=1;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:54:34.297] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=2;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:54:35.301] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=3;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:55:23.740] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=1;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:55:24.744] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=2;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:55:25.748] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=3;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:55:52.759] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=1;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:55:53.763] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=2;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:55:54.768] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=3;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:56:19.481] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=1;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:56:20.486] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=2;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:56:21.491] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=3;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:56:37.237] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=1;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:56:38.241] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=2;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T06:56:39.245] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_766c76c076969e57565147ea044eeffa9ebd8372;attempt=3;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T07:00:32.858] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T07:00:32.929] [WARN] nodeJS - worker 826 started.
+[2020-05-27T07:00:32.940] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T07:00:57.454] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T07:00:57.466] [WARN] nodeJS - worker 890 started.
+[2020-05-27T07:00:57.473] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T08:04:24.472] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T08:04:24.486] [WARN] nodeJS - worker 832 started.
+[2020-05-27T08:04:24.488] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T08:04:45.873] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T08:04:45.883] [WARN] nodeJS - worker 895 started.
+[2020-05-27T08:04:45.884] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-27T08:20:49.599] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_4b8828bd920a7a99992d8fc2a4a0189a02b3d2f6;attempt=1;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T08:20:50.603] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_4b8828bd920a7a99992d8fc2a4a0189a02b3d2f6;attempt=2;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-27T08:20:51.606] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923?alf_ticket=TICKET_4b8828bd920a7a99992d8fc2a4a0189a02b3d2f6;attempt=3;code:null;connect:null;(id=7f364ca3-782b-46ff-afa2-d9463fe10923_1.0)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/api/node/content/workspace/SpacesStore/7f364ca3-782b-46ff-afa2-d9463fe10923</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-28T16:29:00.310] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-28T16:29:00.321] [WARN] nodeJS - worker 835 started.
+[2020-05-28T16:29:00.322] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-28T16:29:22.418] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-28T16:29:22.425] [WARN] nodeJS - worker 899 started.
+[2020-05-28T16:29:22.426] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-28T16:42:32.482] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-28T16:42:32.526] [WARN] nodeJS - worker 848 started.
+[2020-05-28T16:42:32.527] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-28T16:43:45.756] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-28T16:43:45.788] [WARN] nodeJS - worker 841 started.
+[2020-05-28T16:43:45.789] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-28T16:44:05.425] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-28T16:44:05.435] [WARN] nodeJS - worker 904 started.
+[2020-05-28T16:44:05.437] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T00:58:43.410] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T00:58:43.432] [WARN] nodeJS - worker 839 started.
+[2020-05-29T00:58:43.433] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T00:59:03.773] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T00:59:03.779] [WARN] nodeJS - worker 903 started.
+[2020-05-29T00:59:03.780] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:13:43.623] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:13:43.643] [WARN] nodeJS - worker 841 started.
+[2020-05-29T01:13:43.644] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:14:10.363] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:14:10.374] [WARN] nodeJS - worker 907 started.
+[2020-05-29T01:14:10.375] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:19:30.074] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:19:30.114] [WARN] nodeJS - worker 852 started.
+[2020-05-29T01:19:30.121] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:19:52.220] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:19:52.231] [WARN] nodeJS - worker 921 started.
+[2020-05-29T01:19:52.232] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:24:18.396] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:24:18.447] [WARN] nodeJS - worker 858 started.
+[2020-05-29T01:24:18.449] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:24:41.984] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T01:24:41.995] [WARN] nodeJS - worker 921 started.
+[2020-05-29T01:24:41.996] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:06:12.314] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:06:12.363] [WARN] nodeJS - worker 842 started.
+[2020-05-29T02:06:12.384] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:06:39.804] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:06:39.826] [WARN] nodeJS - worker 904 started.
+[2020-05-29T02:06:39.827] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:09:35.609] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_d10460924db1f21850b0fa0c663103b440478bbd;attempt=1;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:09:36.614] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_d10460924db1f21850b0fa0c663103b440478bbd;attempt=2;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:09:37.617] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_d10460924db1f21850b0fa0c663103b440478bbd;attempt=3;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:10:31.596] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=fffde735-76e1-438e-b0cf-6908c6f21923_1.0.xls&alf_ticket=TICKET_d10460924db1f21850b0fa0c663103b440478bbd;attempt=1;code:null;connect:null;(id=conv_fffde735-76e1-438e-b0cf-6908c6f21923_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:10:32.600] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=fffde735-76e1-438e-b0cf-6908c6f21923_1.0.xls&alf_ticket=TICKET_d10460924db1f21850b0fa0c663103b440478bbd;attempt=2;code:null;connect:null;(id=conv_fffde735-76e1-438e-b0cf-6908c6f21923_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:10:33.604] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=fffde735-76e1-438e-b0cf-6908c6f21923_1.0.xls&alf_ticket=TICKET_d10460924db1f21850b0fa0c663103b440478bbd;attempt=3;code:null;connect:null;(id=conv_fffde735-76e1-438e-b0cf-6908c6f21923_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:15:23.129] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:15:23.169] [WARN] nodeJS - worker 857 started.
+[2020-05-29T02:15:23.183] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:15:46.503] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:15:46.514] [WARN] nodeJS - worker 920 started.
+[2020-05-29T02:15:46.515] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:20:26.851] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:20:26.886] [WARN] nodeJS - worker 859 started.
+[2020-05-29T02:20:26.892] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:20:50.522] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:20:50.537] [WARN] nodeJS - worker 922 started.
+[2020-05-29T02:20:50.538] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:26:48.473] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:26:48.556] [WARN] nodeJS - worker 837 started.
+[2020-05-29T02:26:48.562] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:27:16.886] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:27:16.896] [WARN] nodeJS - worker 902 started.
+[2020-05-29T02:27:16.897] [WARN] nodeJS - update cluster with 1 workers
+[2020-05-29T02:41:28.672] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=1;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:41:29.677] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=2;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:41:30.680] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=3;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:41:47.435] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=1;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:41:48.439] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=2;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:41:49.442] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=3;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:44:38.146] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=1;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:44:39.150] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=2;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:44:40.154] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=3;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:46:02.727] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=1;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:46:03.730] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=2;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T02:46:04.732] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=3;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:00:46.609] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=1;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:00:47.612] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=2;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:00:48.617] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=3;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:05:14.060] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=1;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:05:15.064] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=2;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:05:16.068] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=3;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:09:27.151] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=1;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:09:28.154] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=2;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:09:29.158] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=3;code:null;connect:null;(id=conv_73ac5662-b515-49ac-ab06-411b3ab6d973_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:25:57.208] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=1;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:25:58.212] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=2;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-05-29T03:25:59.215] [ERROR] nodeJS - error downloadFile:url=http://localhost/alfresco/s/parashift/onlyoffice/converter?key=4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls&alf_ticket=TICKET_ec99ba9f3220574a511cf423f2a162165e891c43;attempt=3;code:null;connect:null;(id=conv_4f7335c6-3883-4d30-811c-a73c67a965b4_1.0.xls_xlsx)
+Error: Error response: statusCode:404 ;body:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /alfresco/s/parashift/onlyoffice/converter</pre>
+</body>
+</html>
+
+    at Request._callback (/snapshot/server/build/server/Common/sources/utils.js:0:0)
+    at Request.init.self.callback (/snapshot/server/build/server/Common/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:198:13)
+    at Request.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:198:13)
+    at IncomingMessage.<anonymous> (/snapshot/server/build/server/Common/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1143:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[2020-06-01T06:06:29.653] [WARN] nodeJS - update cluster with 1 workers
+[2020-06-01T06:06:29.687] [WARN] nodeJS - worker 840 started.
+[2020-06-01T06:06:29.691] [WARN] nodeJS - update cluster with 1 workers
+[2020-06-01T06:06:52.985] [WARN] nodeJS - update cluster with 1 workers
+[2020-06-01T06:06:52.997] [WARN] nodeJS - worker 899 started.
+[2020-06-01T06:06:52.999] [WARN] nodeJS - update cluster with 1 workers
+[2020-06-01T06:08:35.806] [WARN] nodeJS - update cluster with 1 workers
+[2020-06-01T06:08:35.839] [WARN] nodeJS - worker 843 started.
+[2020-06-01T06:08:35.851] [WARN] nodeJS - update cluster with 1 workers
+[2020-06-01T06:09:03.828] [WARN] nodeJS - update cluster with 1 workers
+[2020-06-01T06:09:03.843] [WARN] nodeJS - worker 909 started.
+[2020-06-01T06:09:03.846] [WARN] nodeJS - update cluster with 1 workers
